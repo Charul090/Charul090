@@ -42,7 +42,7 @@
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Charul090&count_private=true&show_icons=true&theme=dracula" alt="stats"/>
+<img src="https://github-readme-stats.charul090.vercel.app/api?username=Charul090&count_private=true&show_icons=true&theme=dracula" alt="stats"/>
 </p>
 
 
