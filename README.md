@@ -16,8 +16,8 @@
 <!--
 **Charul090/Charul090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"></img>
 #### About Me:
-
 - 🔭 I’m currently working on React,Flask.
 - 🌱 I’m currently looking for a job.
 - 💬 Ask me about Manchester United, football, suits, GOT.
