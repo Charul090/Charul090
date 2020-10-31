@@ -17,7 +17,6 @@
 **Charul090/Charul090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
 #### About Me:
-- 🔭 I’m currently working on NESTJS.
 - 📫 How to reach me: baricharul9@hotmail.com.
 - :smile: Pronouns: he/him
 - :zap: Fun Fact: ```undefined```/```None```
